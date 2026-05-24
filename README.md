@@ -1,4 +1,4 @@
-# hi, Ansh here
+![banner](https://raw.githubusercontent.com/anshverma1975/anshverma1975/main/banner.svg)
 
 Undergrad @ IIT Madras.
 
