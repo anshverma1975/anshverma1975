@@ -1,0 +1,7 @@
+<svg viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <rect width="800" height="160" fill="#0d1117" rx="8"/>
+  <rect x="0" y="0" width="4" height="160" fill="#534AB7" rx="2"/>
+  <text x="28" y="52" font-family="monospace" font-size="11" fill="#534AB7">// iit madras · data science · neuroscience</text>
+  <text x="28" y="95" font-family="monospace" font-size="36" font-weight="700" fill="#ffffff">Ansh Kumar Verma</text>
+  <text x="28" y="128" font-family="monospace" font-size="13" fill="#8b949e">linear algebra · computational neuroscience · retro tech · ultrakill</text>
+</svg>
