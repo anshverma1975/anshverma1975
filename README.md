@@ -37,3 +37,11 @@ Currently thinking about computational neuroscience, theoretical ML, and the unr
 ---
 
 *curiosity-driven. occasionally overthinking. always learning.*
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshverma1975/anshverma1975/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshverma1975/anshverma1975/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/anshverma1975/anshverma1975/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
