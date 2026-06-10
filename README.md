@@ -1,25 +1,25 @@
-![banner](https://raw.githubusercontent.com/anshverma1975/anshverma1975/main/banner.svg)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=👋+Hi%2C+I'm+Ansh!;Undergrad+%40+IIT+Madras;Comp+Neuro+%7C+Theoretical+ML;Retro+Tech+is+dope;Occasionally+Overthinking" alt="Typing animation" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF" />
+</div>
+
+---
 
 Undergrad @ IIT Madras.
+I like understanding how things *actually* work — whether that's how a neural population encodes information, why a proof is beautiful, or how a 1970s computer managed to do so much with so little.
 
-I like understanding how things *actually* work — whether that's how a neural 
-population encodes information, why a proof is beautiful, or how a 1970s 
-computer managed to do so much with so little.
-
-Currently thinking about computational neuroscience, theoretical ML, and the 
-unreasonable effectiveness of linear algebra.
+Currently thinking about computational neuroscience, theoretical ML, and the unreasonable effectiveness of linear algebra.
 
 ---
 
 **a few things about me**
 
-- I've mentored 1000+ students through Linear Algebra and I still find it 
-  fascinating every time something clicks for someone
-- I have a soft spot for constrained systems and old hardware — CRT monitors, 
-  ancient controllers, forgotten machines. Preserving retro tech feels like 
-  a responsibility, not just a hobby
-- I play games with mythological chaos baked in (Ultrakill is a masterpiece, 
-  no arguments)
+- Mentored 1000+ students through Linear Algebra and I still find it fascinating every time something clicks for someone
+- Soft spot for constrained systems and old hardware — CRT monitors, ancient controllers, forgotten machines. Preserving retro tech feels like a responsibility, not just a hobby
+- Ultrakill is a masterpiece. No arguments.
 - I watch documentaries about things most people don't think twice about
 - I sing. A lot. Unrelated to everything else here but felt important to mention
 - I make poor jokes. You've been warned
@@ -28,12 +28,11 @@ unreasonable effectiveness of linear algebra.
 
 **what I work with**
 
-Python · Flask · JavaScript · React · Next.js
+`Python` · `Flask` · `JavaScript` · `React` · `Next.js`
 
 **what I think about**
 
-Computational Neuroscience · Theoretical ML · Linear Algebra · 
-Computational Astrophysics · Retro Tech · How brains compute things
+`Computational Neuroscience` · `Theoretical ML` · `Linear Algebra` · `Computational Astrophysics` · `Retro Tech` · `How brains compute things`
 
 ---
 
