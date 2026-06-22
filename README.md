@@ -45,3 +45,8 @@ Currently thinking about computational neuroscience, theoretical ML, and the unr
     <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/anshverma1975/anshverma1975/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshverma1975&style=for-the-badge&color=00D9FF" />
+  <img src="https://img.shields.io/github/followers/anshverma1975?style=for-the-badge&color=00D9FF" />
+</div>
