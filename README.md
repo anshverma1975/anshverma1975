@@ -38,9 +38,9 @@ Currently thinking about computational neuroscience, theoretical ML, and the unr
 
 `Computational Neuroscience` · `Theoretical ML` · `Linear Algebra` · `Computational Astrophysics` · `Retro Tech` · `How brains compute things`
 
----
-
 *curiosity-driven. occasionally overthinking. always learning.*
+
+---
 
 <div align="center">
   <picture>
