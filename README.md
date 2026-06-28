@@ -32,6 +32,8 @@ Currently thinking about computational neuroscience, theoretical ML, and the unr
   <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,flask,electron,vercel,git,github,vscode" />
 </div>
 
+---
+
 **what I think about**
 
 `Computational Neuroscience` · `Theoretical ML` · `Linear Algebra` · `Computational Astrophysics` · `Retro Tech` · `How brains compute things`
