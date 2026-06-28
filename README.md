@@ -28,7 +28,9 @@ Currently thinking about computational neuroscience, theoretical ML, and the unr
 
 **what I work with**
 
-`Python` · `Flask` · `JavaScript` · `React` · `Next.js`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,flask,electron,vercel,git,github,vscode" />
+</div>
 
 **what I think about**
 
